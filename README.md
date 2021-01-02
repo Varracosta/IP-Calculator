@@ -15,3 +15,5 @@ Right now the calc can calculate:
 Its also possible to calculate subnet if you need to. Just tick the checkbox, and the field for input will appear. 
 
 The program also have validation if the fields are empty, or the values are lesser or greater then needed. 
+
+Ah! I hope the shortcut icon is displaying correctly because I made it myself!
