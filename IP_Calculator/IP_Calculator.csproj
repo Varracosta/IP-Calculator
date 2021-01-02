@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationIcon>IPCalcIcon.ico</ApplicationIcon>
+    <AssemblyName>IP Calculator</AssemblyName>
+    <Authors>Varracosta</Authors>
+    <Company>Varracosta</Company>
+    <Description>Simple desktop IP calculator</Description>
+    <PackageIcon>IPCalcIcon.png</PackageIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\Desktop\Pics\IPCalcIcon.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
